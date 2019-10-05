@@ -3,8 +3,8 @@ YARPP(Yet Another Related Posts Plugin) template for Breek theme with thumbnail 
 
 ## Installation
 
-Upload theme file (yarpp-template-breek.php) to your themes folder (wp-content/themes/breek/). 
-Select "Custom" and "Breek" as the template file in the "Yet Another Related Posts plug-in" settings.
+- Upload theme file (yarpp-template-breek.php) to your themes folder (wp-content/themes/breek/).
+- Select "Custom" and "Breek" as the template file in the "Yet Another Related Posts plug-in" settings.
 
 ## Dependencies
 
